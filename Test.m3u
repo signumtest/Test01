@@ -40,7 +40,7 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png", Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" ,San Isidro TV (360p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="122" tvg-name="Canal Visión Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada | CO
@@ -55,7 +55,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://lh3.googleusercontent.com/-y3QFWBQHE-I/YH9dccPTdGI/AAAAAAABBz0/R4xo5fq8-k8QhAujzC3p7vY5ksP7qcOQQCK8BGAsYHg/s512/2021-04-20.jpg", Somos Del Este TV | PY
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (576p)
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" ,CGTN Español (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png", BHTV | PE
@@ -75,9 +75,6 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", FMTV 1 | US
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelísima [Not 24/7]
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
 #EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png", Buin Somos Todos | CL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
@@ -209,7 +206,7 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://i.imgur.com/C1mY5X4.png" group-title="Undefined",Santa Fe Canal (720p)
+#EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://i.imgur.com/C1mY5X4.png",Santa Fe Canal (720p)
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-id="1363" tvg-name="Neox TV" tvg-logo="https://i.paste.pics/748becd7a46e16965b48a8eb38c719f1.png", Neox TV | AR
