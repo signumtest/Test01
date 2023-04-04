@@ -22,9 +22,6 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1217" tvg-name="eSports Max TV" tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png", eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos 15.1" tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png", TV Cosmos 15.1 | PE
-https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://i2.paste.pics/ed2fce1f9fe98a5c7dec95777c201497.png", Cosmos TV | CL
 https://v1.tustreaming.cl/cosmostv/index.m3u8?PlaylistM3UCL
 
@@ -140,8 +137,6 @@ https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?Play
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="663" tvg-name="Canal 4 Saltillo" tvg-logo="https://i2.paste.pics/8633b98f64d70ee6a2758710bbe1662e.png", Canal 4 Saltillo | MX
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="639" tvg-name="Canal 7 SLP" tvg-logo="https://i2.paste.pics/0aa378a645e18c804d3b93c7925a098e.png", Canal 7 SLP | MX
-https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="676" tvg-name="RTQ Queretaro" tvg-logo="https://i2.paste.pics/a7cbecd1ea518bcf4f19a2d3826cff84.png", RTQ Queretaro | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://i2.paste.pics/17d27a5425fe2886aaa86e6350fab481.png", SIZART Canal 24 Zacatecas | MX
@@ -158,6 +153,9 @@ https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="638" tvg-name="TV Lobo" tvg-logo="https://i2.paste.pics/60758a2e7e05e1d602810166ed1420f4.png", TV Lobo | MX
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png", ADN 40 | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="637" tvg-name="Jalisco TV" tvg-logo="https://i2.paste.pics/3e9f1ea06075f52f17c396ff5cccfec6.png", Jalisco TV | MX
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
 
@@ -166,9 +164,6 @@ https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1118" tvg-name="Panamericana" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana | PE
 https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="810" tvg-name="Club TV" tvg-logo="https://lh3.googleusercontent.com/-ZO2ZG5c9lTg/YH4vuRraIyI/AAAAAAABBv4/sR_z5uB03g8Xo_BL094Xs-Kk31W-aFjmACK8BGAsYHg/s512/2021-04-19.png", Club TV | CL
-https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="332" tvg-name="TV Costa" tvg-logo="https://lh3.googleusercontent.com/-D5lPoIyFycQ/YIxMYNs6ZKI/AAAAAAABCEU/0AcLO4Az3y0wi6son16EjNv2DewCGFk8QCK8BGAsYHg/s512/2021-04-30.jpg", TV Costa | CL
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8?PlaylistM3UCL
@@ -211,6 +206,11 @@ https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="1346" tvg-name="Canal 34 San Juan" tvg-logo="https://i.paste.pics/e997553b78d791f101932d46c4dd1afb.png", Canal 34 San Juan | AR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SEO TV (1080p)
+https://live.seo.tv.bo/live/1SEO.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SEO TV Películas (1080p)
+https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-id="1337" tvg-name="Flow TV+ HD" tvg-logo="https://i.paste.pics/e7d584c74657e601d4265d330159465e.png", Flow TV+ HD | CL
 https://oracle.streaminghd.cl/flowtvhd/flowtvhd/playlist.m3u8?PlaylistM3UCL
