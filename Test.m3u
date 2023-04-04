@@ -207,9 +207,9 @@ https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="1346" tvg-name="Canal 34 San Juan" tvg-logo="https://i.paste.pics/e997553b78d791f101932d46c4dd1afb.png", Canal 34 San Juan | AR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SEO TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ,SEO TV (1080p)
 https://live.seo.tv.bo/live/1SEO.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SEO TV Películas (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ,SEO TV Películas (1080p)
 https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-id="1337" tvg-name="Flow TV+ HD" tvg-logo="https://i.paste.pics/e7d584c74657e601d4265d330159465e.png", Flow TV+ HD | CL
