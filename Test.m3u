@@ -43,9 +43,6 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="122" tvg-name="Canal Visión Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="848" tvg-name="Tele Oriental Digital" tvg-logo="https://lh3.googleusercontent.com/-jvt2C0d_DYM/YIq06KhkcJI/AAAAAAABCCw/3ZNdoHf54jYj--ERKwrY3AtOLc6PNtwXACK8BGAsYHg/s512/2021-04-29.png", Tele Oriental Digital | DO
-https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
@@ -67,11 +64,11 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="482" tvg-name="Frecuencia Musical TV" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", Frecuencia Musical TV | US
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", FMTV 1 | US
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png", Buin Somos Todos | CL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
@@ -204,13 +201,14 @@ https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="1346" tvg-name="Canal 34 San Juan" tvg-logo="https://i.paste.pics/e997553b78d791f101932d46c4dd1afb.png", Canal 34 San Juan | AR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ,SEO TV (1080p)
 https://live.seo.tv.bo/live/1SEO.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ,SEO TV Películas (1080p)
-https://live.seo.tv.bo/live/4SEO.m3u8
 
-#EXTINF:-1 tvg-id="1337" tvg-name="Flow TV+ HD" tvg-logo="https://i.paste.pics/e7d584c74657e601d4265d330159465e.png", Flow TV+ HD | CL
-https://oracle.streaminghd.cl/flowtvhd/flowtvhd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-id="912" tvg-name="Radio Blu" tvg-logo="https://i2.paste.pics/6168c59afa97c01d32b2ef8eba327239.png", Radio Blu | AR
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8?PlaylistM3UCL
