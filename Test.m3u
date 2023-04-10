@@ -207,7 +207,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ,SEO TV (1080p)
 https://live.seo.tv.bo/live/1SEO.m3u8
 
-#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title= ,A3Cine (1080p)
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-id="912" tvg-name="Radio Blu" tvg-logo="https://i2.paste.pics/6168c59afa97c01d32b2ef8eba327239.png", Radio Blu | AR
