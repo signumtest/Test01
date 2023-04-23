@@ -132,13 +132,8 @@ http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="659" tvg-name="Canal 10 Cancun" tvg-logo="https://i2.paste.pics/69bf76340322a596b235d69c0f189278.png", Canal 10 Cancun | MX
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="660" tvg-name="Canal 10 Chiapas" tvg-logo="https://i2.paste.pics/5b5b76f51f668dce9998af7d0aa25f28.png", Canal 10 Chiapas | MX
-https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="644" tvg-name="Canal 28 Nuevo Leon" tvg-logo="https://i2.paste.pics/e5bf70a29f8a83310b1986ca1856b753.png", Canal 28 Nuevo Leon | MX
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="663" tvg-name="Canal 4 Saltillo" tvg-logo="https://i2.paste.pics/8633b98f64d70ee6a2758710bbe1662e.png", Canal 4 Saltillo | MX
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="676" tvg-name="RTQ Queretaro" tvg-logo="https://i2.paste.pics/a7cbecd1ea518bcf4f19a2d3826cff84.png", RTQ Queretaro | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://i2.paste.pics/17d27a5425fe2886aaa86e6350fab481.png", SIZART Canal 24 Zacatecas | MX
