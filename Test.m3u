@@ -34,6 +34,9 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png", Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 
@@ -122,6 +125,8 @@ https://videohd.live:19360/8076/8076.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1044" tvg-name="Telesur Costa Rica" tvg-logo="https://i2.paste.pics/9374c535562f863ab536cb264e20d812.png", Telesur Costa Rica | CR
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1052" tvg-name="TV Sur Canal 9" tvg-logo="https://i2.paste.pics/e71dbd173c7d1e13f92e019c7a9ac89f.png", TV Sur Canal 9 | CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
@@ -147,8 +152,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://i2.paste.pics/b558d6fde606a2bf8105c2ba0134282d.png", Transmedia TV Morelia | MX
-https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="638" tvg-name="TV Lobo" tvg-logo="https://i2.paste.pics/60758a2e7e05e1d602810166ed1420f4.png", TV Lobo | MX
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
 
@@ -173,9 +176,6 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?P
 #EXTINF:-1 tvg-id="719" tvg-name="Entelevision" tvg-logo="https://lh3.googleusercontent.com/-B-xmeIzShMA/XzgVttyb-XI/AAAAAAAA4TQ/3NYa5It_NjoiP1w4a5l5kIZfQD7s8VPpwCK8BGAsYHg/s0/2020-08-15.jpg", Entelevision | DO
 https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="708" tvg-name="Telenovisa 43" tvg-logo="https://lh3.googleusercontent.com/-tLCdv43ZkBI/XzgUt_3YhGI/AAAAAAAA4Sk/WOe41jACpdgEDDLGXMz7qNstxIBohBxFQCK8BGAsYHg/s0/2020-08-15.png", Telenovisa 43 | DO
-http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", Caracola TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
@@ -188,8 +188,8 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="299" tvg-name="Canal 10 Rio Negro" tvg-logo="https://lh3.googleusercontent.com/-RPgMJ90DCeU/XjtIXwH4L3I/AAAAAAAAvqs/HoaDT_pgUukebIWHY7ndUkZs1fiQerE_ACK8BGAsYHg/s0/2020-02-05.png", Canal 10 Rio Negro | AR
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1345" tvg-name="Canal 11 de La Costa" tvg-logo="https://i.paste.pics/f071f1f2d0acd1d332eb4ec06a4f4c5e.png", Canal 11 de La Costa | AR
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="264" tvg-name="Canal 7 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png", Canal 7 Jujuy | AR
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
