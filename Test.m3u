@@ -218,9 +218,9 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title= ,SEO TV Películas (1080p)
 https://live.seo.tv.bo/live/4SEO.m3u8
 
-#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title=,Xtrema Anime (360p)
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png", Xtrema Anime (360p)
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title=,Xtrema Cartoons (360p)
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png", Xtrema Cartoons (360p)
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title=,Xtrema Cine Acción (268p)
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
