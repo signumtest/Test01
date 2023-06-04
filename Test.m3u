@@ -10,7 +10,7 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="1364" tvg-name="Retro Magico" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico | AR
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title=,Super Kaos TV (360p)
+#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" ,Super Kaos TV (360p)
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1132" tvg-name="Ciudad Magica TV" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png", Ciudad Magica TV | AR
@@ -37,7 +37,7 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title= ,Cine Sony (720p)
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png", Spectrum Channel | CL
@@ -76,9 +76,9 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="482" tvg-name="Frecuencia Musical TV" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", Frecuencia Musical TV | US
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title= ,Telesistema (480p)
+#EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" ,Telesistema (480p)
 http://51.81.93.239:8084/hls/tsistemas.m3u8
-#EXTINF:-1 tvg-id="Telesistema.cr" tvg-logo="https://i.imgur.com/A0BBS4z.png" group-title= ,Telesistema (486p)
+#EXTINF:-1 tvg-id="Telesistema.cr" tvg-logo="https://i.imgur.com/A0BBS4z.png" ,Telesistema (486p)
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png", Buin Somos Todos | CL
@@ -102,17 +102,8 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="334" tvg-name="Canal 74 TeVe" tvg-logo="https://lh3.googleusercontent.com/-TYq4HDXXrKg/X1gGWf_2AWI/AAAAAAAA5ZQ/apHThKFoYGM5Yyixt53Afu2I10KkbCdjwCK8BGAsYHg/s0/2020-09-08.png", Canal 74 TeVe | CL
 https://Stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="236" tvg-name="Canal 9 Litoral" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png", Canal 9 Litoral | AR
-https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1026" tvg-name="Tele Mix" tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png", Tele Mix | AR
-https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="248" tvg-name="Uni Teve" tvg-logo="https://lh3.googleusercontent.com/--AAhhuRqvN8/X4y9NE0LJXI/AAAAAAAA6iY/YoguEK_wmH0ax34yOvVR2eSBGS7gMoRJgCK8BGAsYHg/s0/2020-10-18.png", Uni Teve | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="93" tvg-name="RTP" tvg-logo="https://lh3.googleusercontent.com/-N3zh29QSPGc/XoJ-bfc5s-I/AAAAAAAAxUU/049-pOmZOb4ESR2rDTzzDCO6zO5niZ5-QCK8BGAsYHg/s0/2020-03-30.png", RTP | BO
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg", Cali TV | CO
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
@@ -128,11 +119,12 @@ https://videohd.live:19360/8076/8076.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1044" tvg-name="Telesur Costa Rica" tvg-logo="https://i2.paste.pics/9374c535562f863ab536cb264e20d812.png", Telesur Costa Rica | CR
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1052" tvg-name="TV Sur Canal 9" tvg-logo="https://i2.paste.pics/e71dbd173c7d1e13f92e019c7a9ac89f.png", TV Sur Canal 9 | CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="624" tvg-name="TV Galicia Europa" tvg-logo="https://lh3.googleusercontent.com/-E7ikRmgAVYA/Xx2pnksjUrI/AAAAAAAA3ec/Tc4uW4xNC2kBWOOLqI38ggl5eegaQ1n8ACK8BGAsYHg/s0/2020-07-26.png", TV Galicia Europa | ES
 http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
@@ -142,6 +134,8 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM
 
 #EXTINF:-1 tvg-id="644" tvg-name="Canal 28 Nuevo Leon" tvg-logo="https://i2.paste.pics/e5bf70a29f8a83310b1986ca1856b753.png", Canal 28 Nuevo Leon | MX
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="663" tvg-name="Canal 4 Saltillo" tvg-logo="https://i2.paste.pics/8633b98f64d70ee6a2758710bbe1662e.png", Canal 4 Saltillo | MX
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="676" tvg-name="RTQ Queretaro" tvg-logo="https://i2.paste.pics/a7cbecd1ea518bcf4f19a2d3826cff84.png", RTQ Queretaro | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://i2.paste.pics/17d27a5425fe2886aaa86e6350fab481.png", SIZART Canal 24 Zacatecas | MX
@@ -182,17 +176,35 @@ https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8?Play
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", Caracola TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://lh3.googleusercontent.com/-YUlLyA8Pk7Y/X5n9AMtVNNI/AAAAAAAA61E/UkiOjRsCTWMa94h4g35uC424D4E_wU_2gCK8BGAsYHg/s0/2020-10-28.png", HiperTV | CL
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title= ,Kanal D Drama (1080p)
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1336" tvg-name="Canal 8 Mar del Plata" tvg-logo="https://i.paste.pics/f367fbd7489929df2ba48ecab15137a6.png", Canal 8 Mar del Plata | AR
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="299" tvg-name="Canal 10 Rio Negro" tvg-logo="https://lh3.googleusercontent.com/-RPgMJ90DCeU/XjtIXwH4L3I/AAAAAAAAvqs/HoaDT_pgUukebIWHY7ndUkZs1fiQerE_ACK8BGAsYHg/s0/2020-02-05.png", Canal 10 Rio Negro | AR
-https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" ,N+ Media
+https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6237e40c284b55f29fd0613c/08b7062c3223bb43d5c502a1939056a9?tr=q-80&w=750" ,Fuakata!
+https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" ,Cine Retro
+https://linear-307.frequency.stream/307/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750" ,La Familia P.Luche
+https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891?tr=q-80&w=750" ,Vecinos
+https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" ,Cocina TV
+https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/623696ed4fa9c22d4088a341/6c001fa87b8af3f0bee0f985c23c8f30?tr=q-80&w=750" ,Una Familia de Diez
+https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5?tr=q-80&w=750" ,Nosotros los Guapos
+https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="264" tvg-name="Canal 7 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png", Canal 7 Jujuy | AR
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
@@ -210,46 +222,46 @@ https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8?PlaylistM3UC
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ,SEO TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" ,SEO TV (1080p)
 https://live.seo.tv.bo/live/1SEO.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title= ,SEO TV Novelas (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" ,SEO TV Novelas (1080p)
 https://live.seo.tv.bo/live/3SEO.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title= ,SEO TV Películas (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" ,SEO TV Películas (1080p)
 https://live.seo.tv.bo/live/4SEO.m3u8
 
-#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png", Xtrema Anime (360p)
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" ,Xtrema Anime (360p)
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png", Xtrema Cartoons (360p)
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" ,Xtrema Cartoons (360p)
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title=,Xtrema Cine Acción (268p)
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" ,Xtrema Cine Acción (268p)
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title=,Xtrema Cine Asia (268p)
+#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" ,Xtrema Cine Asia (268p)
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title=,Xtrema Cine Comedy (344p)
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" ,Xtrema Cine Comedy (344p)
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title=,Xtrema Cine Drama (360p)
+#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" ,Xtrema Cine Drama (360p)
 https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title=,Xtrema Cine Europa (360p)
+#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" ,Xtrema Cine Europa (360p)
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title=,Xtrema Cine Family (274p)
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" ,Xtrema Cine Family (274p)
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title=,Xtrema Cine Hindi (272p)
+#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" ,Xtrema Cine Hindi (272p)
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title=,Xtrema Cine Latino (360p)
+#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" ,Xtrema Cine Latino (360p)
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title=,Xtrema Cine Suspenso (360p)
+#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" ,Xtrema Cine Suspenso (360p)
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title=,Xtrema Cine Terror (270p)
+#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" ,Xtrema Cine Terror (270p)
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title=,Xtrema Retro Cartoons (360p)
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" ,Xtrema Retro Cartoons (360p)
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title=,Xtrema Retro Series (360p)
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" ,Xtrema Retro Series (360p)
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title=,Xtrema Series (360p)
+#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" ,Xtrema Series (360p)
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title= ,A3Cine (1080p)
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" ,A3Cine (1080p)
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
