@@ -10,6 +10,12 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="1364" tvg-name="Retro Magico" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico | AR
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="1466" tvg-name="Animax Revival" tvg-logo="https://i2.paste.pics/c100d60949dbe27b5e916bce264443f0.png", Animax Revival | CL
+https://streaming.zappix.live:3062/live/animaxlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV | PA
+https://cloudvideo.servers10.com:8081/8138/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" ,Super Kaos TV (360p)
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
@@ -19,11 +25,14 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1421" tvg-name="13 Kids" tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png", 13 Kids * | CL
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation * | AR
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://i2.paste.pics/18b445e2ec674ae21c12e73f6714501d.png", Taltal TV * | CL
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids | AR
+https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1112" tvg-name="Energeek Fanpop TV" tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png", Energeek Fanpop TV * | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
@@ -80,8 +89,14 @@ https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" ,Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1436" tvg-name="Apanines TV" tvg-logo="https://i2.paste.pics/eee2cbc0f52cbb9c7c73ee13f72c0b96.png", Apanines TV * | CL
+https://inliveserver.com:1936/10010/10010/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png", Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://i2.paste.pics/3d543690d890b9a5918a8025aebcf2bc.png", Terror TV * | CL
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Movies",Xtrema Cine Terror (270p)
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
@@ -110,8 +125,7 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="482" tvg-name="Frecuencia Musical TV" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", Frecuencia Musical TV | US
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
@@ -123,10 +137,10 @@ https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
 
 #EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://i2.paste.pics/632a740768764ab4dd8208568ae61b01.png", Raices Arabes TV | CL
-https://6362ca6f1fc28.streamlock.net:443/gsnzdymwdq/gsnzdymwdq/playlist.m3u8?PlaylistM3UCL
+https://tv.streaming-chile.com:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 * | CL
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", Eva Retro | CL
 https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
