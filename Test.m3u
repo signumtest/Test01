@@ -95,9 +95,6 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1413" tvg-name="Diti TV" tvg-logo="https://cdn.m3u.cl/logo/1413_Diti_TV.png", Diti TV | AR
-https://inliveserver.com:1936/8386/8386/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="1235" tvg-name="Origen TV" tvg-logo="https://i2.paste.pics/a260c7d6bedb511c0170f0ea04f3807a.png", Origen TV | CL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
 
@@ -163,14 +160,8 @@ https://tv.streaming-chile.com:1936/raicesarabestv/raicesarabestv/playlist.m3u8?
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 * | CL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", Eva Retro | CL
-https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="1095" tvg-name="OK TeVe" tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png", OK TeVe | PE
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="334" tvg-name="Canal 74 TeVe" tvg-logo="https://lh3.googleusercontent.com/-TYq4HDXXrKg/X1gGWf_2AWI/AAAAAAAA5ZQ/apHThKFoYGM5Yyixt53Afu2I10KkbCdjwCK8BGAsYHg/s0/2020-09-08.png", Canal 74 TeVe | CL
-https://Stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="248" tvg-name="Uni Teve" tvg-logo="https://lh3.googleusercontent.com/--AAhhuRqvN8/X4y9NE0LJXI/AAAAAAAA6iY/YoguEK_wmH0ax34yOvVR2eSBGS7gMoRJgCK8BGAsYHg/s0/2020-10-18.png", Uni Teve | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
