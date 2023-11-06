@@ -19,6 +19,9 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="1535" tvg-name="Gogo Play Bolivia HD" tvg-logo="https://cdn.m3u.cl/logo/1535_Gogo_Play_Bolivia_HD.png", Gogo Play Bolivia HD | BO
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico
