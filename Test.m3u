@@ -21,6 +21,12 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1535" tvg-name="Gogo Play Bolivia HD" tvg-logo="https://cdn.m3u.cl/logo/1535_Gogo_Play_Bolivia_HD.png", Gogo Play Bolivia HD | BO
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.energeek.cl/imgs/canales/ACSNetwork.png" group-title="Amigos" tvg-id="CA", ACS Network TV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/S0k40t9.png" group-title="Amigos" tvg-id="CA", Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/q4huhhn.jpg" group-title="Amigos" tvg-id="CA", Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
