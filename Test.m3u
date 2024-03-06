@@ -4,14 +4,14 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Kids | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png", Moni TV | CL
-https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png", Moni TV ✪ | CL
+https://stream.skarnetchile.com:3817/live/monitvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1132" tvg-name="Ciudad Magica TV" tvg-logo="https://cdn.m3u.cl/logo/1132_Ciudad_Magica_TV.png", Ciudad Magica TV | AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV | PA
-https://cloudvideo.servers10.com:8081/8138/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" ,DreikoTv (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
@@ -26,29 +26,44 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+#EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids | AR
+https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ec98378f852412f496eaa557998255ac.png", Pandamax TV
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation * | AR
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids | AR
-https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" ,MAX Anime (720p)
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" ,bitMe (576p)
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTelevision.ar" tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" ,Play Television (720p)
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
-#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Fanpop TV" tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png", Energeek Fanpop TV * | CL
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://i2.paste.pics/5efe361b75000b6eb6104bf22a0880fe.png", EnerGeek * | CL
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png", EnerGeek Radio * | CL
-https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" ,Fanpop TV (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" ,EnerGeek (720p) [Not 24/7]
+https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+#EXTINF:-1 tvg-id="379" tvg-name="CCP Radio" tvg-logo="https://cdn.m3u.cl/logo/379_CCP_Radio.png", CCP Radio | CL
+https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1217" tvg-name="eSports Max TV" tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png", eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="MetaVersusCR.cr" tvg-logo="https://i.imgur.com/BKkljlc.png" ,MetaVersus CR (480p)
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:-1 tvg-id="RetroxTV.cr" tvg-logo="https://i.imgur.com/viJBL6f.png" ,Retrox TV (720p)
+https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://cdn.m3u.cl/logo/1092_Planeta_TV.png", Planeta TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="GTV.gt" tvg-logo="https://i.imgur.com/gUiIC8E.png" ,Génesis TV (768p) [Not 24/7]
+https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
+#EXTINF:-1 tvg-id="1022" tvg-name="EGM Channel" tvg-logo="https://cdn.m3u.cl/logo/1022_EGM_Channel.png", EGM Channel | CL
+https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="332" tvg-name="TV Costa" tvg-logo="https://cdn.m3u.cl/logo/332_TV_Costa.jpg", TV Costa | CL
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png", Maxima TV
@@ -80,6 +95,8 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net:443/elsellotv/elsellotv/playlist.m3u8
 #EXTINF:-1 tvg-id="1545" tvg-name="Estacion Retro" tvg-logo="https://cdn.m3u.cl/logo/1545_Estacion_Retro.png", Estacion Retro | CO
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-logo="https://i.imgur.com/mhbERF9.jpg" ,Pantalla Clásica EC (512p)
+https://rpn3.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 
@@ -173,9 +190,6 @@ https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="126" tvg-name="CTV" tvg-logo="https://lh3.googleusercontent.com/-HEzkYTo02Rk/Xzgh99tP4iI/AAAAAAAA4YQ/mTot01o9dXAeWSFyVaHucohKWQSBIcEVgCK8BGAsYHg/s0/2020-08-15.jpg", CTV | CO
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
-https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="482" tvg-name="Frecuencia Musical TV" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", Frecuencia Musical TV | US
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 
@@ -209,6 +223,9 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="624" tvg-name="TV Galicia Europa" tvg-logo="https://lh3.googleusercontent.com/-E7ikRmgAVYA/Xx2pnksjUrI/AAAAAAAA3ec/Tc4uW4xNC2kBWOOLqI38ggl5eegaQ1n8ACK8BGAsYHg/s0/2020-07-26.png", TV Galicia Europa | ES
 http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title=" ,Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-id="659" tvg-name="Canal 10 Cancun" tvg-logo="https://i2.paste.pics/69bf76340322a596b235d69c0f189278.png", Canal 10 Cancun | MX
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM3UCL
