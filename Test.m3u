@@ -1,11 +1,11 @@
 #EXTM3U 
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 channel-id="samsung-ESBA3300017FA" tvg-id="ESBA3300017FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20240117T032708SQUARE.png_20240117032709.png" tvg-chno="4615", Familiares - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
-
 #EXTINF:-1 channel-id="samsung-ESBD2300003S5" tvg-id="ESBD2300003S5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20230712T021346SQUARE.png_20230712021346.png" tvg-chno="4623", Rabbids : La invasion
-https://i.mjh.nz/SamsungTVPlus/ESBD2300003S5.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBD2300003S5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300017FA" tvg-id="ESBA3300017FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20240117T032708SQUARE.png_20240117032709.png" tvg-chno="4615", Familiares - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESBA3300017FA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
@@ -16,15 +16,14 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" ,DreikoTv (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-logo="https://i.imgur.com/BArIlh7.jpg" ,Latino Kids TV | Uruguay
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+#EXTINF:-1 tvg-id="",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1ff8587666990c8f6c8a6fa24d3055f.png", Latino Kids TV
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
-
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/5OYccJH.png",Gogoplay TV | Bolivia
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
@@ -40,6 +39,9 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ani Retro" tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" ,Ani Retro | Chile
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/ef0bf95dfe58815d33a87539bb6e3cd4.png", ZTV Anime
+https://mitv.zplay.cl/Ztv/index.m3u8
 
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg",VariedTV | Argentina
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
@@ -85,9 +87,6 @@ https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/sI2lUuY.png",Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telenorte" tvg-name="Telenorte" tvg-logo="https://i.imgur.com/2WLql1q.png",Telenorte | ND
-https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/S0k40t9.png",Sicardi TV | Argentina
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
@@ -119,6 +118,16 @@ https://ssh101.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" ,Big TV | Argentina
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Big Cine" tvg-name="Big Cine" tvg-logo="https://imgur.com/jEcFLev.png",Big Cine | Colombia
+https://fl1001.bozztv.com/ssh101/canalonline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Conectate TV" tvg-name="Conectate TV" tvg-logo="https://i.imgur.com/69KTqf4.png",Conectate TV | Puerto Rico
+https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/atlRdIQ.png",Bjgtjme | Argentina
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Wow Movies" tvg-name="Wow Movies" tvg-logo="https://i.imgur.com/RaXzDvv.png" ,Wow Movies | Colombia
 https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
@@ -174,9 +183,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d1eaa7bdcdbd86b4e76e364ef8977d18.png", Spectrum Channel
 https://wifispeed.trapemn.tv:1936/energeek/spectrumtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="CGTN en Espanol" tvg-name="CGTN en Espanol" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png",CGTN en Espanol | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -226,6 +232,9 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?P
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", Caracola TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="",Novelas Turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -235,11 +244,6 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?Playli
 
 #EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://i.imgur.com/C1mY5X4.png",Santa Fe Canal (720p)
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
-
-#EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", Canal VM Latino | CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
