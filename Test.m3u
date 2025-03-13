@@ -4,7 +4,7 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" ,Ciudad Magica Tv | Argentina
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png",Dreiko TV | Panamá
-https://cloudvideo.servers10.com:8081/8096/index.m3u8
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-id="Wow Tv" tvg-name="Wow Tv" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" ,Wow Tv | El Salvador
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
@@ -17,8 +17,8 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/5OYccJH.png",Gogoplay TV | Bolivia
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/BjOe1RF.jpg",Moni TV HD | Argentina
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1 tvg-id="DFTV Animacion HD" tvg-name="DFTV Animacion HD" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg",DFTV Animacion HD | Chile
+https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348af/index.m3u8
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/dnqNtOF.png" ,Moni TV HD op2 | Argentina
 https://fl1001.bozztv.com/ssh101/monitvhd/playlist.m3u8
 
@@ -30,12 +30,18 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids | AR
 https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png",Magic Kids Tv | Argentina
+https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+#EXTINF:-1 tvg-id="FUNTV" tvg-name="FUNTV" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png",FUNTV | ND
+https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FUNTV ESTE" tvg-name="FUNTV ESTE" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png",FUNTV ESTE | ND
+https://ssh101-fl.bozztv.com/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanade Tv" tvg-name="Kanade Tv" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png",Kanade Tv | Argentina
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png",EnerGeek Retro | Chile
-https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg",Energeek Radio TV op2 | Chile
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg",Fanpop TV op2 | Chile
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
@@ -79,15 +85,14 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png",Cgtn Espanol HD (opcion 2)
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-id="MetaVersusCR.cr" tvg-logo="https://i.imgur.com/BKkljlc.png" ,MetaVersus CR (480p)
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-logo="https://i.imgur.com/ODMa27W.jpg",Canal Más Televisión (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-
-#EXTINF:-1 tvg-id="Voice Over Radio TV" tvg-name="Voice Over Radio TV" tvg-logo="https://i.imgur.com/qhLnq2W.png",Voice Over Radio TV | Costa Rica
-https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/sI2lUuY.png",Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
