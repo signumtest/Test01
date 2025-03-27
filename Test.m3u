@@ -17,10 +17,8 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/5OYccJH.png",Gogoplay TV | Bolivia
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1 tvg-id="DFTV Animacion HD" tvg-name="DFTV Animacion HD" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg",DFTV Animacion HD | Chile
-https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348af/index.m3u8
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/dnqNtOF.png" ,Moni TV HD op2 | Argentina
-https://fl1001.bozztv.com/ssh101/monitvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/dnqNtOF.png",Moni TV HD op2 | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png",Nickelodeon HD | Spain
 http://185.189.225.150:85/nickelodeon/index.m3u8
@@ -32,6 +30,29 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png",Magic Kids Tv | Argentina
 https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" ,Locomotion op1 | Republica Dominicana
+http://85.239.54.197:81/live/loco_hi/index.m3u8
+
+#EXTINF:-1 tvg-name="Anime Vision" tvg-id="Anime Vision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" ,Anime Vision | ND
+https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
+
+#EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="Anime Vision Classics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" ,Anime Vision Classics | ND
+https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
+
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" ,AnimeStation | Argentina
+https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" ,AnimeStation op3 | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/9efjPBA.png" ,Taltal Tv HD | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/taltal/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/9efjPBA.png" ,Taltal 2 Tv HD | Argentina
+https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/9efjPBA.png" ,Taltal 3 Tv HD | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/animacion/playlist.m3u8
 #EXTINF:-1 tvg-id="FUNTV" tvg-name="FUNTV" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png",FUNTV | ND
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 
@@ -42,13 +63,8 @@ https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg",Energeek Radio TV op2 | Chile
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
-#EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png",EnerGeek Retro op2 | Chile
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg",Fanpop TV op2 | Chile
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" ,Locomotion op1 | Republica Dominicana
-http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://www.animeonegai.com/assets/img/anime/general/ao3.png",Anime Onegai Deportes | ND
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
@@ -67,28 +83,19 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-id="Ani Retro" tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" ,Ani Retro | Chile
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png",EnerGeek Retro op2 | Chile
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="Toonizaki HD" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/RNLmbTP/logo-Toonizaki-4.jpg" ,Toonizaki HD | Argentina
 https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ef0bf95dfe58815d33a87539bb6e3cd4.png", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/ec98378f852412f496eaa557998255ac.png", Pandamax TV
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png",Canal LMS op1 | Mexico
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/9efjPBA.png" ,Taltal Tv HD | Argentina
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" ,GenTV HD | Argentina
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV | AR
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png",Cgtn Espanol HD (opcion 2)
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-id="MetaVersusCR.cr" tvg-logo="https://i.imgur.com/BKkljlc.png" ,MetaVersus CR (480p)
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
