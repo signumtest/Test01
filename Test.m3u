@@ -56,8 +56,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/animacion/playlist.m3u8
 #EXTINF:-1 tvg-id="FUNTV" tvg-name="FUNTV" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png",FUNTV | ND
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FUNTV ESTE" tvg-name="FUNTV ESTE" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png",FUNTV ESTE | ND
-https://ssh101-fl.bozztv.com/ssh101/funtveste/playlist.m3u8
+#EXTINF:-1 tvg-id="FUNTV ESTE" tvg-name="FUNTV ESTE" tvg-logo="https://i.ibb.co/jKZjB56/Logo-Ani-Fun.png",FUNTV ESTE | ND
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanade Tv" tvg-name="Kanade Tv" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png",Kanade Tv | Argentina
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 
@@ -96,7 +96,8 @@ https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" ,GenTV HD | Argentina
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-
+#EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://i.imgur.com/bD8YutM.png",Neo TV | Argentina
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="MetaVersusCR.cr" tvg-logo="https://i.imgur.com/BKkljlc.png" ,MetaVersus CR (480p)
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
